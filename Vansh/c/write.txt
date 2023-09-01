@@ -1,0 +1,2 @@
+Hello, World!
+This is a C program for writing to a file.
