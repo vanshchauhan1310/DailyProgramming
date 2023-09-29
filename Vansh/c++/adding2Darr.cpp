@@ -1,3 +1,6 @@
+/* In This Question I have Added two 2D Array */
+
+
 #include <iostream>
 
 
