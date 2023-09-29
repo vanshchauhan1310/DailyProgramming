@@ -1,4 +1,4 @@
-
+/* In This question I have Printed Armstrong Number*/
 
 #include<iostream>
 #include<math.h>
