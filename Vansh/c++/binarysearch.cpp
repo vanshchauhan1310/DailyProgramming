@@ -1,3 +1,4 @@
+/*In this question we are doing Binary Search*/
 #include<iostream>
 using namespace std;
 
