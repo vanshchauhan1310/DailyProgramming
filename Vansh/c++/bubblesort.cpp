@@ -1,3 +1,5 @@
+/*In this question we are doing bubble sort */
+
 #include<iostream>
 using namespace std ; 
 
