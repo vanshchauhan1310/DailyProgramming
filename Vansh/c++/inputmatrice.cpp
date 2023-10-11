@@ -1,3 +1,4 @@
+/*In this We are taking input as a matrice*/
 #include <iostream>
 
 
