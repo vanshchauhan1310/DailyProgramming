@@ -1,3 +1,4 @@
+// In this we have calculated the area 
 class Area
 {
 public static void main(String args[])
